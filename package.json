@@ -1,0 +1,22 @@
+{
+  "name": "nunjucks-add-attrs-filter",
+  "version": "0.0.1",
+  "description": "A nunjucks filter to allow addition non-defined attributes Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottnath/nunjucks-add-attrs-filter.git"
+  },
+  "keywords": [
+    "nunjucks-filter"
+  ],
+  "author": "github@scottnath.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/scottnath/nunjucks-add-attrs-filter/issues"
+  },
+  "homepage": "https://github.com/scottnath/nunjucks-add-attrs-filter#readme"
+}
